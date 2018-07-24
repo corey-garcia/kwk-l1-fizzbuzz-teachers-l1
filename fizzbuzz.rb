@@ -10,3 +10,6 @@ def fizzbuzz(number)
   end
 end 
 
+def percentage(number)
+ some_number = 6/9 
+ somenumber * 100
